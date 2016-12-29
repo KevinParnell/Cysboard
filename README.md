@@ -69,3 +69,5 @@ os_uptime - The total amount of time since last boot
 
 #####If a 'main.html' file does not exist in the config directory cysboard will start with a default theme.#####
 
+
+#This is forked for the use on Solus.
